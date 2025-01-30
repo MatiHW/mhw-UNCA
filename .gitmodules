@@ -1,3 +1,6 @@
 [submodule "csci338/class-exercises-spring2025"]
 	path = csci338/class-exercises-spring2025
 	url = git@github.com:MHWunca/class-exercises-spring2025.git
+[submodule "csci338/merge-activity"]
+	path = csci338/merge-activity
+	url = git@github.com:KailaBtw/Git-Collaboration-Activity.git
