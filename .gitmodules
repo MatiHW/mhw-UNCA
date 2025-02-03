@@ -4,3 +4,6 @@
 [submodule "csci338/merge-activity"]
 	path = csci338/merge-activity
 	url = git@github.com:KailaBtw/Git-Collaboration-Activity.git
+[submodule "csci338/lab03-exercises"]
+	path = csci338/lab03-exercises
+	url = git@github.com:MHWunca/lab03-exercises.git
